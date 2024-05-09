@@ -60,7 +60,7 @@
       <Private>false</Private>
     </Reference>
     <Reference Include="RiskOfOptions">
-      <HintPath>..\..\..\RoR2Modding\Rune580-Risk_Of_Options-2.7.1\RiskOfOptions\RiskOfOptions.dll</HintPath>
+      <HintPath>..\..\..\Rune580-Risk_Of_Options-2.7.1\RiskOfOptions\RiskOfOptions.dll</HintPath>
     </Reference>
     <Reference Include="SimpleJSON">
       <HintPath>libs\SimpleJSON.dll</HintPath>
